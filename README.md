@@ -1,6 +1,6 @@
-## derflutterdr
+## DerFlutterDr
 
-Welcome to **derflutterdr**, a simple Flutter applicaton for Dr Todo Little.
+Welcome to **DerFlutterDr**, a simple Flutter applicaton for Dr Todo Little.
 
 ## How to get it running
 
@@ -18,4 +18,4 @@ Welcome to **derflutterdr**, a simple Flutter applicaton for Dr Todo Little.
 
 ## And remember...
 
-This is a work in progress!
+This is a prototype, a work in progress!
